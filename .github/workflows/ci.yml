@@ -52,4 +52,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: huzaifa113/nphies-mapper:latest
+          tags: huzaifa1113/nphies-mapper:latest
